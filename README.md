@@ -1,0 +1,1 @@
+This repository is for the final class project that I did with a group for the Object Oriented Programming for Information Science course. We used object-oriented programming concepts to create an online banking system.
